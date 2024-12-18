@@ -92,8 +92,8 @@ main section {
 }
 
 .section-3 {
-  background-image: url("/new-year-new-me/images/gradient2.png"),
-    url("/new-year-new-me/images/watch.png");
+  background-image: url("https://github.com/Sarmin00/New-year-new-me-projects/blob/main/images/gradient3.png"),
+    url("https://github.com/Sarmin00/New-year-new-me-projects/blob/main/images/watch.png");
   padding: 60px 30px;
   background-repeat: no-repeat;
   border-radius: 8px;
